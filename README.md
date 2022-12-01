@@ -13,7 +13,7 @@ Voici des questions que j'ai écrite et résolue dans le cadre de la compétitio
 
 ---
 
-Here is some questions I wrote and solved for the algorithms problems competitions 2022-2023 at Polytechnique Montréal.
+Here is some questions I wrote and solved for the computer skills competition 2022-2023 at Polytechnique Montréal.
 
 - [Question 1](https://github.com/cfstcyr/competition-informatique/tree/main/src/question-1) : Count islands within a grid of 0s and 1s.
 - [Question 2](https://github.com/cfstcyr/competition-informatique/tree/main/src/question-2) : Find closest common node ancestor of two nodes in a tree.
